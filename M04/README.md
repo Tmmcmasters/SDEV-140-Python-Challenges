@@ -11,6 +11,7 @@ The program should then use a loop to step through the list. The loop should pas
 2: Write a Python program to get the top three items price in a shop. (15 points)
 
 Sample data: {'Apple': 0.50, 'Banana': 0.20, 'Mango': 0.99, 'Coconut': 2.99, 'Pineapple': 3.99}
+
 Expected Output:
 Pineapple 3.99
 Coconut 2.99
